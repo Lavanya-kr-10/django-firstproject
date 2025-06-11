@@ -9,6 +9,7 @@ This is a Django project created as part of an assignment.
 ## How to run
 ```bash
 python manage.py runserver
+python manage.py runserver
 
 ##Author
 Lavanya
