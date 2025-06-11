@@ -11,5 +11,3 @@ This is a Django project created as part of an assignment.
 python manage.py runserver
 python manage.py runserver
 
-##Author
-Lavanya
